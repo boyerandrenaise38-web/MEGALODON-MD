@@ -1,9 +1,9 @@
-{
+
   "name": "MEGALODON-MD",
   "version": "2.0.0",
   "description": "A WhatsApp Bot Created By DybyTech",
   "main": "index.js",
-  "scripts": {
+  "scripts": {MEGALODON~MD~kQZE3arS#9AjHgqechmmq0gfo6h3Ax_LATJQ-zJtghNaJecOLE10
     "start": "pm2 start index.js --deep-monitoring --attach --name MEGALODON-MD",
     "stop": "pm2 stop MEGALODON-MD",
     "restart": "pm2 restart MEGALODON-MD"
